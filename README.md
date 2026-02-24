@@ -6,6 +6,7 @@ This is my data analyst journal to record my learning process and insights from 
 # Useful Links
 - [Kaggle](https://www.kaggle.com/jackwp)
 - [Data community](https://towardsdatascience.com/)
+- [Data analyst roadmap](https://github.com/mtahiraslan/data-analyst-roadmap)
 # Techstacks
 ## Spreadsheets
 - Google Sheets
@@ -48,21 +49,31 @@ Data is a collection of facts. Data is a clay to make a brick. You can use data 
 
 - **Act:** putting insights to work to solve the problem
 
-> Ask the right question and understand the objective Don't worry about the right answer. Enjoy exploring the data to find the unknown insight
+> Ask the right question and understand the objective. Don't worry about the right answer. Enjoy exploring the data to find the unknown insight
 
 [4 Examples of Business Analytics in Action](https://online.hbs.edu/blog/post/business-analytics-examples)
 
 # Timeline
+The Google Data Analytics Certificate course consists of 9 courses to earn certification.
+1. Foundations: Data, Data, Everywhere
+2. Ask Questions to Make Data-Driven Decisions
+3. Prepare Data for Exploration
+4. Process Data from Dirty to Clean
+5. Analyze Data to Answer Questions
+6. Share Data Through the Art of Visualization
+7. Data Analysis with R Programming
+8. Google Data Analytics Capstone: Complete a Case Study
+9. Accelerate Your Job Search with AI
 
-| Day | Course                                               | Progress                                                                                                                                                                                           |
-| --- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Course 1: Foundations: Data, Data, Everywhere        | - Process of data analysis<br>    <br>- Type of data<br>    <br>- Data life cycle                                                                                                                  |
-| 2   | Course 1: Foundations: Data, Data, Everywhere        | - Spreadsheets intro<br>    <br>- SQL intro<br>    <br>- R intro<br>    <br>- Data visualization<br>    <br>- Tableau intro<br>    <br>- Data fairness                                             |
-| 3   | Course 2: Ask Questions to Make Data-driven Decision | - Effective questioning<br>    <br>- SMART framework<br>    <br>- Types of problem<br>    <br>- Business and data analysis<br>    <br>- Basic spreadsheets<br>    <br>- Basic formula and operator |
-| 4   | Course 2: Ask Questions to Make Data-driven Decision | - Softskills<br>    <br>- Spreadsheets function/formula<br>    <br>- Communication with stakeholders and team<br>    <br>- Meetings and email etiquette                                            |
-| 5   | Course 3: Prepare data for exploration               | - Data ethics<br>    <br>- Data source<br>    <br>- Data collection considerations<br>    <br>- Data structures                                                                                    |
-| 6   | Course 3: Prepare data for exploration               | - Databases<br>    <br>- Metadata<br>    <br>- CSV file                                                                                                                                            |
-|     |                                                      |                                                                                                                                                                                                    |
+| Day | Course                                                              | Progress                                                                                                                                                   |
+| --- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Course 1: Foundations: Data, Data, Everywhere (Module 1, 2)         | - Process of data analysis<br>- Type of data<br>- Data life cycle                                                                                          |
+| 2   | Course 1: Foundations: Data, Data, Everywhere (Module 3)            | - Spreadsheets intro<br>- SQL intro<br>- R intro<br>- Data visualization<br>- Tableau intro<br>- Data fairness                                             |
+| 3   | Course 2: Ask Questions to Make Data-driven Decisions (Module 1, 2) | - Effective questioning<br>- SMART framework<br>- Types of problem<br>- Business and data analysis<br>- Basic spreadsheets<br>- Basic formula and operator |
+| 4   | Course 2: Ask Questions to Make Data-driven Decisions (Module 3, 4) | - Softskills<br>- Spreadsheets function/formula<br>- Communication with stakeholders and team<br>- Meetings and email etiquette                            |
+| 5   | Course 3: Prepare data for exploration (Module 1, 2)                | - Data ethics<br>- Data source<br>- Data collection considerations<br>- Data structures                                                                    |
+| 6   | Course 3: Prepare data for exploration (Module 3)                   | - Databases<br>- Metadata<br>- CSV file<br>- How data is generated<br>- Extract data using spreadsheets and SQL                                            |
+| 7   | Course 3: Prepare data for exploration (Module 4)                   | - Organizing data<br>- Folder structure<br>- Access control<br>- Data security                                                                             |
 
 # Projects
 
