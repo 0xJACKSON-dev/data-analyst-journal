@@ -74,6 +74,7 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 | 5   | Course 3: Prepare data for exploration (Module 1, 2)                | - Data ethics<br>- Data source<br>- Data collection considerations<br>- Data structures                                                                    |
 | 6   | Course 3: Prepare data for exploration (Module 3)                   | - Databases<br>- Metadata<br>- CSV file<br>- How data is generated<br>- Extract data using spreadsheets and SQL                                            |
 | 7   | Course 3: Prepare data for exploration (Module 4)                   | - Organizing data<br>- Folder structure<br>- Access control<br>- Data security                                                                             |
+| 8   | Course 4: Process Data from Dirty to Clean (Module 1, 2)            | - Data integrity<br>- Sample sizing<br>- Data cleaning<br>- Tools and technique                                                                            |
 
 # Projects
 
