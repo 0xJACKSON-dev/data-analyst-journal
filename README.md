@@ -4,6 +4,7 @@
 This is my data analyst journal to record my learning process and insights from the [Google Data Analytics Certificate](https://www.skills.google/paths/2267), including a timeline of learning below. This repository will keep updating until I finish the course and the documentation
 
 # Useful Links
+- ⭐ [awesom-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis)
 - [Kaggle](https://www.kaggle.com/jackwp)
 - [Data community](https://towardsdatascience.com/)
 - [Data analyst roadmap](https://github.com/mtahiraslan/data-analyst-roadmap)
@@ -74,7 +75,8 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 | 5   | Course 3: Prepare data for exploration (Module 1, 2)                | - Data ethics<br>- Data source<br>- Data collection considerations<br>- Data structures                                                                    |
 | 6   | Course 3: Prepare data for exploration (Module 3)                   | - Databases<br>- Metadata<br>- CSV file<br>- How data is generated<br>- Extract data using spreadsheets and SQL                                            |
 | 7   | Course 3: Prepare data for exploration (Module 4)                   | - Organizing data<br>- Folder structure<br>- Access control<br>- Data security                                                                             |
-| 8   | Course 4: Process Data from Dirty to Clean (Module 1, 2)            | - Data integrity<br>- Sample sizing<br>- Data cleaning<br>- Tools and technique                                                                            |
+| 8   | Course 4: Process Data from Dirty to Clean (Module 1, 2)            | - Prepare and process data<br>- Data integrity<br>- Sample sizing<br>- Data cleaning<br>- Tools and technique                                              |
+| 9   | Course 4: Process Data from Dirty to Clean (Module 3, 4)            | - Advanced data-cleaning functions<br>- Data cleaning with BigQuery<br>- Data verification<br>- Documentation<br>- Changelog, and version control system   |
 
 # Projects
 
