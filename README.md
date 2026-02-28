@@ -77,7 +77,8 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 | 7   | Course 3: Prepare data for exploration (Module 4)                   | - Organizing data<br>- Folder structure<br>- Access control<br>- Data security                                                                             |
 | 8   | Course 4: Process Data from Dirty to Clean (Module 1, 2)            | - Prepare and process data<br>- Data integrity<br>- Sample sizing<br>- Data cleaning<br>- Tools and technique                                              |
 | 9   | Course 4: Process Data from Dirty to Clean (Module 3, 4)            | - Advanced data-cleaning functions<br>- Data cleaning with BigQuery<br>- Data verification<br>- Documentation<br>- Changelog, and version control system   |
-| 10  | Course 5: Analyze Data to Answer Questions (Module 1)               | - Organizing data<br>- Format data<br>- SORT function<br>- FILTER function                                                                                 |
+| 10  | Course 5: Analyze Data to Answer Questions (Module 1)               | - Organizing data<br>- Data formatting<br>- SORT function<br>- FILTER function                                                                             |
+| 11  | Course 5: Analyze Data to Answer Questions (Module 2)               | - Data convert<br>- Data validation<br>- CONCAT and CONCATENATE                                                                                            |
 
 # Projects
 
