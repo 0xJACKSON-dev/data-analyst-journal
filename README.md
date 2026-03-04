@@ -56,6 +56,7 @@ Data is a collection of facts. Data is a clay to make a brick. You can use data 
 
 # Timeline
 The Google Data Analytics Certificate course consists of 9 courses to earn certification.
+
 1. Foundations: Data, Data, Everywhere
 2. Ask Questions to Make Data-Driven Decisions
 3. Prepare Data for Exploration
@@ -65,6 +66,7 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
 9. Accelerate Your Job Search with AI
+
 
 | Day | Course                                                              | Progress                                                                                                                                                                                      |
 | --- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,9 +84,12 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 | 12  | Course 5: Analyze Data to Answer Questions (Module 3)               | - Aggregate functions<br>- VLOOKUP<br>- JOINs<br>- COUNT<br>- Subqueries                                                                                                                      |
 | 13  | Course 5: Analyze Data to Answer Questions (Module 4)               | - Formulas for basic calculations<br>- Conditional formulas that use the IF function<br>- SUMPRODUCT function<br>- Pivot tables to organize calculations<br>- Queries and calculations in SQL |
 | 14  | Course 6: Share Data Through the Art of Visualization (Module 1, 2) | - Foundation of data visualization<br>- Data viz decision tree<br>- Design thinking<br>- Basic Tableau<br>- Data storytelling                                                                 |
+| 15  | Course 6: Share Data Through the Art of Visualization (Module 3, 4) | - Tableau dashboard<br>- Effective data stories<br>- Presentation<br>- Q&A, Objections handling                                                                                               |
 
 # Projects
 
 
 # License
-© MIT License
+MIT License 
+Copyright © 2026 0xjackson-dev
+
