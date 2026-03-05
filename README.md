@@ -17,10 +17,11 @@ This is my data analyst journal to record my learning process and insights from 
 - BigQuery
 - MySQL
 ## Python (library)
-- matplotlib
-- pandas
-- seaborn
+- [matplotlib](https://matplotlib.org/)
+- [pandas](https://pandas.pydata.org/)
+- [seaborn](https://seaborn.pydata.org/)
 ## R (library)
+- [awesom-ggplot2](https://github.com/erikgahner/awesome-ggplot2)
 
 ## Data Visualization
 - Tableau
@@ -53,7 +54,8 @@ Data is a collection of facts. Data is a clay to make a brick. You can use data 
 > Ask the right question and understand the objective. Don't worry about the right answer. Enjoy exploring the data to find the unknown insight
 
 [4 Examples of Business Analytics in Action](https://online.hbs.edu/blog/post/business-analytics-examples)
-
+# Projects
+*placeholder*
 # Timeline
 The Google Data Analytics Certificate course consists of 9 courses to earn certification.
 
@@ -85,11 +87,9 @@ The Google Data Analytics Certificate course consists of 9 courses to earn certi
 | 13  | Course 5: Analyze Data to Answer Questions (Module 4)               | - Formulas for basic calculations<br>- Conditional formulas that use the IF function<br>- SUMPRODUCT function<br>- Pivot tables to organize calculations<br>- Queries and calculations in SQL |
 | 14  | Course 6: Share Data Through the Art of Visualization (Module 1, 2) | - Foundation of data visualization<br>- Data viz decision tree<br>- Design thinking<br>- Basic Tableau<br>- Data storytelling                                                                 |
 | 15  | Course 6: Share Data Through the Art of Visualization (Module 3, 4) | - Tableau dashboard<br>- Effective data stories<br>- Presentation<br>- Q&A, Objections handling                                                                                               |
-
-# Projects
-
+| 16  | Course 7: Data Analysis with R Programming (Module 1, 2)            | - Introduction to R<br>- RStudio & Positron IDE<br>- Data structure<br>- R packages (tidyverse)<br>- Use pipes to nest code                                                                   |
 
 # License
-MIT License 
+MIT License\
 Copyright © 2026 0xjackson-dev
 
